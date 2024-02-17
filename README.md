@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./dino.jpg" width="220"/>
+<img src="./dino.jpg" width="600"/>
 </div>
 <h1> Hi there 👋 </h1>
 
