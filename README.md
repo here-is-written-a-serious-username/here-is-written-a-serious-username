@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./dino.jpg" width="680"/>
+<img src="./github.png" width="220"/>
 </div>
 <h1> Hi there 👋 </h1>
 
